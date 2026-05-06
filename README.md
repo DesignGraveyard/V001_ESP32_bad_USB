@@ -1,6 +1,6 @@
 # Description
 
-ESP32’s are nice microcontrollers, but not this one! This project describes how to build a WiFi rubber ducky or “bad USB”. No programming skills are required, just buy a ESP32 S2 board and flash it with the online tool.  
+ESP32’s are nice microcontrollers, but not this one! This project describes how to build a WiFi rubber ducky or “bad USB”. No programming skills are required, just buy a standard ESP32 S2 board or build the custom ESP32 S3 board and flash it with the online tool.  
 
 Watch the YouTube video, it will guide you through the process step by step:
 [![Watch the video](https://img.youtube.com/vi/4D8BNrNJ1KE/0.jpg)](https://youtu.be/4D8BNrNJ1KE)
