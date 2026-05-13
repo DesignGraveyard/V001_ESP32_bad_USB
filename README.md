@@ -10,13 +10,19 @@ The precompiled bin files include some fun examples to get you started.
 ## Two build options included:  
 The function of both is identical. They run the same legendary 'SpaceHuhn' firmware, with the same Ducky scripts.  
   
-1: Quick: Use a standard ESP32 S2 board and flash the bin files:  
+1: Quick: Use a standard ESP32 S2 board and flash the 4 bin files:  
 (ESP32_S2_bin_files.zip)  
   
-2: PRO: If you like soldering, use the custom ESP32 S3 PCB:  PCB gerber files, bin files, assembly drawing included:  
+2: PRO: If you like soldering, use the custom ESP32 S3 PCB:  PCB gerber files, 4 bin files, assembly drawing included:  
 (ESP32_S3_BIN_PCB_gerber.zip)  
-  
+The board can be assembled with a solder iron, however hot air reflow is more convenient for the ESP32 S3 module.  
+Check the video and assembly instruction for more details.  
+
 <img src="ESP32_S3_USB_DUCK_PCBA.jpg" width="50%">  
 
 As mentioned the design uses the firmware created by SpaceHuhn, please support them:  buy a coffee or give a donation on PayPal: [SpaceHuhn](https://github.com/SpacehuhnTech/WiFiDuck)  
 For the KiCAD10 PCB design please watch the video on my Youtube Channel.
+
+## Flashing the bin files:  
+To flash the bin files use the ESP JS flashtool: https://espressif.github.io/esptool-js/  
+Use the flash adresses as indicated in the bin filenames.
