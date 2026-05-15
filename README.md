@@ -21,8 +21,8 @@ Check the video and assembly instruction for more details.
 
 <img src="ESP32_S3_USB_DUCK_PCBA.jpg" width="50%">  
 
-The firmware is created by SpaceHuhn, please 
-For the KiCAD10 PCB design please watch the video on my Youtube Channel.
+If you are interested in the KiCAD10 PCB design please watch the video on my Youtube Channel: 
+[![Watch the video](https://img.youtube.com/vi/4D8BNrNJ1KE/0.jpg)](https://youtu.be/4D8BNrNJ1KE)
 
 ## Flashing the bin files:  
 To flash the bin files use the ESP JS flashtool: https://espressif.github.io/esptool-js/  
