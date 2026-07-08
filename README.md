@@ -3,7 +3,7 @@
 ESP32’s are nice microcontrollers, but not this one! This project describes how to build a WiFi rubber ducky or “bad USB”. No programming skills are required, just buy a standard ESP32 S2 board or build the custom ESP32 S3 board and flash it with the online tool.  
 
 Watch the YouTube video, it will guide you through the process step by step:
-[![Watch the video](https://img.youtube.com/vi/4D8BNrNJ1KE/0.jpg)](https://youtu.be/4D8BNrNJ1KE)
+[![Watch the video](https://img.youtube.com/vi/Hk9vcR5FV9k/0.jpg)](https://youtu.be/Hk9vcR5FV9k)
 
 The precompiled bin files include some fun examples to get you started.  
 Original code is from SpaceHuhn, buy SpaceHuhn a coffee or give a donation on PayPal here: [SpaceHuhn](https://github.com/SpacehuhnTech/WiFiDuck)  
