@@ -7,6 +7,8 @@ Watch the YouTube video, it will guide you through the process step by step:
 
 The precompiled bin files include some fun examples to get you started.  
 Original code is from SpaceHuhn, buy SpaceHuhn a coffee or give a donation on PayPal here: [SpaceHuhn](https://github.com/SpacehuhnTech/WiFiDuck)  
+The code was adaptemd for the ESP32 S2/S3 by Waswasd0105  [SpaceHuhn](https://github.com/wasdwasd0105/SuperWiFiDuck)
+All credits go to Spacehuhn and Wasdas105!  
 
 ## Two build options included:  
 The function of both is identical. They run the same legendary 'SpaceHuhn' firmware, with the same Ducky scripts.  
