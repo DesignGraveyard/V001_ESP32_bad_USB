@@ -16,7 +16,7 @@ The function of both is identical. They run the same legendary 'SpaceHuhn' firmw
 1: Quick: Use a standard ESP32 S2 board and flash the 4 bin files:  
 (ESP32_S2_bin_files.zip)  
   
-2: PRO: If you like soldering, use the custom ESP32 S3 PCB:  PCB gerber files, 4 bin files, assembly drawing included:  
+2: PRO: If you like soldering, use the custom ESP32 S3 PCB:  PCB Gerber files, 4 bin files, assembly drawing included:  
 (ESP32_S3_BIN_PCB_gerber.zip)  
 The board can be assembled with a solder iron, however hot air reflow is more convenient for the ESP32 S3 module.  
 Check the video and assembly instruction for more details.  
@@ -28,7 +28,7 @@ If you are interested in the KiCAD10 PCB design please watch the video on my You
 
 ## Flashing the bin files:  
 To flash the bin files use the ESP JS flashtool: https://espressif.github.io/esptool-js/  
-Use the flash adresses as indicated in the bin filenames.  
+Use the flash addresses as indicated in the bin filenames.  
 
 **All files for ESP32 S2:** ESP32_S2_bin_files.zip  
   
@@ -48,5 +48,5 @@ ESP32_S3_assembly_drawing.pdf - assembly instruction
 ESP32_S3_USB_schematic.pdf - schematic only  
 ESP32-S3-USB-PCB_GERBER.zip - Gerber zip to order PCB (upload as zip to vendor)  
   
-You can check the gerber zip file at: https://www.gerblook.org/  
+You can check the Gerber zip file at: https://www.gerblook.org/  
 (upload ESP32-S3-USB-PCB_GERBER.zip, do not unzip)  
