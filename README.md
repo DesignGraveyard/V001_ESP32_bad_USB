@@ -5,6 +5,9 @@ ESP32’s are nice microcontrollers, but not this one! This project describes ho
 Watch the YouTube video, it will guide you through the process step by step:
 [![Watch the video](https://img.youtube.com/vi/Hk9vcR5FV9k/maxresdefault.jpg)](https://youtu.be/Hk9vcR5FV9k)
 
+Order the PCB Directly at PCBWay:  
+<a href="https://www.pcbway.com/project/shareproject/ESP32_S3_Bad_SB_9dd89e10.html"><img src="https://www.pcbway.com/project/img/images/frompcbway-1220.png" alt="PCB from PCBWay" /></a>
+
 The precompiled bin files include some fun examples to get you started.  
 Original code is from SpaceHuhn, buy SpaceHuhn a coffee or give a donation on PayPal here: [SpaceHuhn](https://github.com/SpacehuhnTech/WiFiDuck)  
 The code was adapted for the ESP32 S2/S3 by Waswasd0105  [SpaceHuhn](https://github.com/wasdwasd0105/SuperWiFiDuck)
